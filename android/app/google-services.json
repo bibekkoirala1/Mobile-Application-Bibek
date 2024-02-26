@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418521045084",
+    "project_id": "mobile-application-tushar",
+    "storage_bucket": "mobile-application-tushar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418521045084:android:f968d7efeb598ab964ae99",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUnW8Zu_MK1b9B8kCMD4pVm7czcojAgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
